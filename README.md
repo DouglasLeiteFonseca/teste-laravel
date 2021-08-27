@@ -19,7 +19,7 @@ Um sistema de listagem e cadastro de clientes vinculados a uma categoria
   - Tipo de cliente (Pessoa fisica ou Jurídica)
   - UF
   - Categoria
-  - Data fundação
+  - Data fundação (Quando for pessoa Jurídica) Data Nascimento (Quando for pessoa fisica)
   - Telefone (Quantidade de telefones é variável).
 
 
